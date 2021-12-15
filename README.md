@@ -1,5 +1,8 @@
 # omnidirectional-mobile-robot
 This repository for the mobile robot with Optitrack
+## Connnection
+The laptop connect to the PC with cable; the laptop and the Raspberry should be connected to same Wifi.
+
 ## IP address configration
 ### Configration of PC(Moviet)
 1. Check the IP address of the PC.
@@ -8,4 +11,4 @@ This repository for the mobile robot with Optitrack
 ### Configration of laptop
 
 
-### Configration of 
+### Configration of Raspberry
